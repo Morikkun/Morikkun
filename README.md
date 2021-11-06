@@ -1,9 +1,6 @@
-<html>
-  ### Hey there, fellow computer sciente student, professional and tech recruiter👋
-
+### Hey there, fellow computer sciente student, professional and tech recruiter👋
 😄 Pronouns: ... He/Him/His
-
-<img src=”https://komarev.com/ghpvc/?username=morikkun" alt=”Morikkun” />
+<img src=”https://komarev.com/ghpvc/?username=morikkun" alt=”Morikkun”/>
 
 <!--
 **Morikkun/Morikkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +14,4 @@
 - 
 - ⚡ Fun fact: ...
 -->
-                                                       </html>
+                                                     
