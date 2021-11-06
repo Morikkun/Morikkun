@@ -1,6 +1,7 @@
 ### Hey there, fellow computer sciente student, professional and tech recruiter👋
 😄 Pronouns: ... He/Him/His
-<img src=”https://komarev.com/ghpvc/?username=morikkun" alt=”Morikkun”/>
+
+[![Morikkuns's Github Stats](https://github-readme-stats.vercel.app/api?username=morikkun)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Morikkun/Morikkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
