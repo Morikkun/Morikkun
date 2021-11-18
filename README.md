@@ -1,4 +1,4 @@
-### Hey there, fellow computer sciente student, professional and tech recruiter👋
+### Hey there, fellow computer science student, professional and tech recruiter👋
 
 - 🌱 I’m currently learning Web and mobile test automation with Java, Selenium and Appium
 - ⚡ Fun fact: I worked in HR before coming to the IT world
